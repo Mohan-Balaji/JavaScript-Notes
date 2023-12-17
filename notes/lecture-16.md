@@ -6,6 +6,8 @@
 
 * JRE consists of a JS Engine (❤️ of JRE), set of APIs to connect with outside environment, event loop, Callback queue, Microtask queue etc.
 
+* Node.js is a JavaScript runtime environment. It allows you to execute JavaScript code server-side, outside of a web browser. Node.js is built on the V8 JavaScript runtime engine, which is the same engine used by the Google Chrome browser. This runtime environment enables the execution of JavaScript code on the server, facilitating the development of server-side applications, command-line tools, and other types of software outside of the traditional browser environment.
+
 * Browser can execute javascript code because it has the Javascript Runtime Environment. 
 
 * ECMAScript is a governing body of JS. It has set of rules which are followed by all JS engines like Chakra(Edge), Spidermonkey(Firefox)(first javascript engine created by JS creator himself), v8(Chrome)
